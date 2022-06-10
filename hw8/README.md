@@ -55,7 +55,7 @@ In new terminal window change folder to app_api/ and start script that runs api:
 cd app_api/
 sh app_api.sh
 ```
-![alt text](https://github.com/lero4kaa/big_data_course/blob/master/hw8/start_app/request3.jpg?raw=true)
+![alt text](https://github.com/lero4kaa/big_data_course/blob/master/hw8/screenshots/start_app.jpg?raw=true)
 
 Stop all processes and then shutdown containers:
 ```
